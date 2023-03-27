@@ -15,4 +15,4 @@
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </div><br/>
 
-Atualmente sou um estudante da linguagem Ruby on Rails, 100% focado em dominar o máximo possivel da linguagem, para conseguir ajudar o mundo com meus códigos!
+Codando e sendo Codificado!
